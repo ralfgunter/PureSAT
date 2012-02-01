@@ -1,0 +1,3 @@
+Straightforward implementation of the DPLL (Davis-Putnam-Logemann-Loveland) algorithm for solving the CNF-SAT problem.
+
+Takes a file in CNF format as an argument.
